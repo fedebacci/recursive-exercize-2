@@ -52,6 +52,16 @@ const pages = [
         parent: 4
     },
     {
+        id: 9,
+        item: "Furgoni normali",
+        parent: 8
+    },
+    {
+        id: 10,
+        item: "Furgoni 4x4",
+        parent: 8
+    },
+    {
         id: 404,
         item: "Errore 404 (parent non esiste)",
         parent: 0
